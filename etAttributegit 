@@ -1,0 +1,44 @@
+* [33mcommit fe21bb0f3adcded1f0cbd61ba4f74f4485826ab8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Wojciech Kogucki <wkogucki@gmail.com>
+[31m|[m Date:   Wed Aug 1 17:40:58 2018 +0200
+[31m|[m 
+[31m|[m     Creating function making rows
+[31m|[m 
+* [33mcommit 678c195ff4026bffba9b64ea6edf1e75b4400c82[m
+[31m|[m Author: Wojciech Kogucki <wkogucki@gmail.com>
+[31m|[m Date:   Wed Aug 1 17:00:54 2018 +0200
+[31m|[m 
+[31m|[m     Creating the size pick function
+[31m|[m 
+* [33mcommit 25b63db2be6d0aa035588809ef27c23055e49c4c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m Author: Andrew Wong <hbkwong@ucdavis.edu>
+[31m|[m Date:   Sun Jul 22 22:16:03 2018 -0700
+[31m|[m 
+[31m|[m     Fix incorrect input tag id.
+[31m|[m 
+* [33mcommit 435e17f81a8a0daddd397f8083cef2f774ef91d4[m
+[31m|[m Author: Andrew Wong <hbkwong@ucdavis.edu>
+[31m|[m Date:   Thu Jan 25 14:24:00 2018 -0800
+[31m|[m 
+[31m|[m     Update tag ID's to camelCase.
+[31m|[m   
+*   [33mcommit 0f51382a75ccb590de1dbe0b3790bd1236d2aa02[m
+[32m|[m[33m\[m  Merge: b9ca105 8d8d44d
+[32m|[m [33m|[m Author: Richard Kalehoff <richardkalehoff@gmail.com>
+[32m|[m [33m|[m Date:   Thu Sep 21 14:57:44 2017 -0700
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge pull request #5 from csiszi/master
+[32m|[m [33m|[m     
+[32m|[m [33m|[m     Update styles to match Udacity's CSS Style Guide
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 8d8d44d1dadf602a2ad53fe9cc601c00ef084b88[m
+[32m|[m[32m/[m  Author: Krasser Tamás <krasser.tamas@gmail.com>
+[32m|[m   Date:   Thu Sep 14 17:10:02 2017 +0200
+[32m|[m   
+[32m|[m       Follow Udacity CSS Style Guide
+[32m|[m 
+* [33mcommit b9ca1056c4c45330b6c78fa76451be9985d2d2e4[m
+  Author: Richard Kalehoff <richardkalehoff@gmail.com>
+  Date:   Mon Aug 28 17:36:22 2017 -0700
+  
+      Initial commit
